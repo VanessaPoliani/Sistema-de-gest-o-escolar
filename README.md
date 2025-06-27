@@ -37,7 +37,7 @@ Este projeto representa um sistema de banco de dados relacional completo para um
 
 ## 🛠 Tecnologias recomendadas
 
-- **SGBD**: MySQL, PostgreSQL ou MariaDB
+- **SGBD**: MySQL
 - **Frontend** (opcional): React, Next.js ou Vue.js
 - **Backend** (opcional): Node.js (Express), Django, Laravel ou Spring
 - **ORM** (opcional): Sequelize, Prisma, TypeORM, Eloquent, etc.
